@@ -1,1 +1,1 @@
-#git é melhor que svn
+#git é melhor que svn.
